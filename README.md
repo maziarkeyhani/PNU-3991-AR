@@ -14,7 +14,7 @@
 
 # تمرین ها
 1. [G-A01]
-    1. []()
+    1. [Ford-Fulkerson](https://www.aparat.com/v/3qHCy)
     1. []()
     1. [Maxflow](http://isabek.github.io/)
 # گروه ها
