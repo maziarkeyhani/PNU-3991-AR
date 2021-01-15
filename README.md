@@ -15,7 +15,7 @@
 # تمرین ها
 1. [G-A01]
     1. [Ford-Fulkerson](https://www.aparat.com/v/3qHCy)
-    1. []()
+    1. [hash table](https://www.aparat.com/v/b0Mja)
     1. [Maxflow](http://isabek.github.io/)
 # گروه ها
 1. [G-A03](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/AdvancedAlgorithms/1115025_01)
