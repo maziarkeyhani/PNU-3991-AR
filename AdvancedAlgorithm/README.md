@@ -1,3 +1,5 @@
+<div dir='rtl'>
+
 # تمرین ها
 1. [G-A01]
     1. [Ford-Fulkerson](https://www.aparat.com/v/3qHCy)
