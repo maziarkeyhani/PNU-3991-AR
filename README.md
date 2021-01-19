@@ -13,6 +13,18 @@
 - [jlord patchwork](https://github.com/maziarkeyhani/pnu_3991_ar/blob/main/patchwork.jpg)
   
 ------------------
+>ارزیابی ها
+
+## ارزیابی بخش عمومی 
+-[ارزیابی رزومه  و انگیزه نامه ](https://github.com/maziarkeyhani/PNU_3991_AR/blob/main/General/XX_CV_CheckList_AR_3991.pdf)
+
+-[ارزیابی بخش عمومی ](https://github.com/maziarkeyhani/PNU_3991_AR/blob/main/General/XX_GeneralSection_CheckList_AR_3991.pdf)
+
+## ارزیابی دروس کارشناسی ارشد
+-[ارزیابی درس الگوریتم پیشرفته ](https://github.com/maziarkeyhani/PNU_3991_AR/blob/main/AdvancedAlgorithm/NM_AdvancedAlgorithms_CheckList_AR_3991.pdf)
+
+------------------
+
 
 ## Winter Semester Courses 1399/2020
 
